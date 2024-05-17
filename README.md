@@ -120,4 +120,6 @@ For any questions, suggestions, or feedback, please open an issue on GitHub or c
 
 ## Credits
 
-Game produced and developped by Negro Haze and rhodu13
+Game produced and developped by Negro Haze and rhodu13.
+
+Support by bheubheu
