@@ -117,3 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Connect with Us
 
 For any questions, suggestions, or feedback, please open an issue on GitHub or contact us at [rhodu13@gmail.com].
+
+## Credits
+
+Game produced and developped by Negro Haze and rhodu13
