@@ -1,6 +1,7 @@
 # Get 10
 
-Welcome to **Get 10**, an addictive puzzle game developed in Python using the Pygame library! This game challenges your strategic thinking and planning skills in a delightful and engaging way.
+Welcome to **Get 10**, an addictive puzzle game developed in Python using the Pygame library! 
+This game challenges your strategic thinking and planning skills in a delightful and engaging way.
 
 ## About the Game
 
@@ -16,7 +17,7 @@ Welcome to **Get 10**, an addictive puzzle game developed in Python using the Py
 
 ## Screenshots
 
-*Include a few screenshots of your game here to visually showcase its design and gameplay.*
+![JustGet10](screenshot.png)
 
 ## Installation
 
